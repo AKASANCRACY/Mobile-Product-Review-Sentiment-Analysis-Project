@@ -11,11 +11,6 @@ This project aims to analyze product reviews from Flipkart and Amazon to gain in
 4. [Analysis Methods](#analysis-methods)
 5. [Results](#results)
 6. [Conclusion](#conclusion)
-7. [Usage](#usage)
-8. [Dependencies](#dependencies)
-9. [Contributing](#contributing)
-10. [License](#license)
-
 
 ## Introduction
 
