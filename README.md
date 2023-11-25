@@ -46,12 +46,6 @@ Data Sources
 The product review data for this analysis was collected from two major e-commerce platforms, Flipkart and Amazon. The data includes customer reviews for a range of products available on these platforms.
 [Dataset_Link](https://docs.google.com/spreadsheets/d/1Ys4y0KGXDffHyXzpcnvDeqEG_Yt0ugr7wRV5_hxCF2E/edit?usp=sharing)
 
-
-## Data Preprocessing
-Certainly! Here's a template for the "Data Preprocessing" section of your README file:
-
----
-
 ## Data Preprocessing
 
 The collected product review data underwent thorough preprocessing to ensure its quality and suitability for analysis. The following steps were taken to clean and preprocess the data:
