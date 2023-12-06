@@ -170,7 +170,7 @@ The analysis of product reviews from Flipkart and Amazon has yielded valuable in
    - The zero-shot text classification model demonstrated effectiveness in categorizing reviews into relevant topics without specific training.
 
 3. **Thematic Trends:**
-   - Thematic categorization revealed emerging trends, such as "Product Features," "User Experience," and "Price."
+   - Thematic categorization revealed emerging trends, such as "camera", "battery","display", "value for money", "performance"
 
 4. **Integrated Analysis:**
    - The fusion of sentiment analysis, zero-shot classification, and thematic categorization provided a comprehensive understanding of customer feedback.
